@@ -1,1 +1,1 @@
-Sample Homework Project
+Homework
